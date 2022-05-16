@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-The school is open
-=======
-#!/bin/bash
-The school is open!
->>>>>>> update_script
+#!bin/bash
+ALX School is now open
